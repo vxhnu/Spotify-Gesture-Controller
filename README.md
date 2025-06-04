@@ -89,8 +89,8 @@ Control your Spotify Desktop App using just your hand gestures via webcam—no k
 ## 👨‍💻 Author
 
 **\[VISHNU RAMESHAN]**
-If you find this project useful or have suggestions, feel free to reach out or contribute.
-gmail - vishnu.rameshan03@gmail.com
+* If you find this project useful or have suggestions, feel free to reach out or contribute.
+* gmail - vishnu.rameshan03@gmail.com
 
 ---
 
